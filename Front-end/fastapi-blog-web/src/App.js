@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Post from './Post';
 import NewPost from './NewPost';
 
-const BASE_URL = 'http://localhost:1111/'
+const BASE_URL = 'http://localhost:8000/'
 
 function App() {
 
